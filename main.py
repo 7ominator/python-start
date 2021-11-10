@@ -1,3 +1,1 @@
-tim = True
-if tim  
-    print("tim stinkt")
+print("tim stinkt")
