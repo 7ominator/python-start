@@ -1,13 +1,13 @@
 x = str(input("Name:"))
-if x == Tim:
+if x == "Tim":
     print("Timinator")
-elif x == Tom:
+elif x == "Tom":
     print("Tominator")
-elif x == Til:
+elif x == "Til":
     print("Belauscher")
-elif x == Ben:
+elif x == "Ben":
     print("Benane")
-elif x == Elliot:
+elif x == "Elliot":
     print("Lmau")
-elif x == Jasper:
+elif x == "Jasper":
     print("minced")
