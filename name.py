@@ -11,3 +11,5 @@ elif x == "Elliot":
     print("Lmau")
 elif x == "Jasper":
     print("minced")
+else 
+    print(x, "inator")
