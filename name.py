@@ -12,4 +12,4 @@ elif x == "Elliot":
 elif x == "Jasper":
     print("minced")
 else:
-    print(x, "inator")
+    print(x + "inator")
